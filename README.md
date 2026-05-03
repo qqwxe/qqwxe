@@ -3,13 +3,13 @@ building bots, web apps & working with servers
 
 ---
 
-## ⚡ about me
-- 🛠 backend + frontend разработка  
-- 🤖 telegram & discord bots  
-- 🌐 web apps (node.js / react)  
-- 🐹 go (backend / tools)  
-- 🔐 vpn setups (xray / wireguard)  
-- ⚙️ linux, servers, networking  
+##  about me
+-  backend + frontend разработка  
+- telegram & discord bots  
+- web apps (node.js / react)  
+- go (backend / tools)  
+- vpn setups (xray / wireguard)  
+- linux, servers, networking  
 
 ---
 
