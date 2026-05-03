@@ -26,11 +26,11 @@ building bots, web apps & working with servers
 
 ## 📊 stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qqwxe&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qqwxe&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqwxe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqwxe&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=qqwxe&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=qqwxe&theme=tokyonight&cache_seconds=1800)
 
 ---
 
