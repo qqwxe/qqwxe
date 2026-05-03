@@ -4,7 +4,7 @@ building bots, web apps & working with servers
 ---
 
 ##  about me
--  backend + frontend разработка  
+-  backend + frontend
 - telegram & discord bots  
 - web apps (node.js / react)  
 - go (backend / tools)  
