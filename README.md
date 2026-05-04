@@ -36,6 +36,6 @@ building bots, web apps & working with servers
 
 ## 📫 contact
 
-- telegram: @detestmedetestmedetestme  
+- telegram: [@detestmedetestmedetestme](https://t.me/detestmedetestmedetestme)
 
 ---
