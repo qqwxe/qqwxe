@@ -3,13 +3,16 @@ building bots, web apps & working with servers
 
 ---
 
-##  about me
--  backend + frontend
-- telegram & discord bots  
-- web apps (node.js / react)  
-- go (backend / tools)  
-- vpn setups (xray / wireguard)  
-- linux, servers, networking  
+## About me
+
+Developer working across web, mobile and infrastructure projects.
+
+- Full-stack web development (Node.js / React)  
+- Mobile development (iOS / Android)  
+- Telegram & Discord bot development  
+- Backend services and tools in Go  
+- Linux administration, VPS deployment, networking  
+- VPN infrastructure (Xray / WireGuard)
 
 ---
 
