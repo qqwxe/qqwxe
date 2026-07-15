@@ -1,44 +1,56 @@
-full-stack developer & tech support engineer  
-building bots, web apps & working with servers  
+<div align="center">
+
+# qqwxe
+
+full-stack developer · infrastructure engineer
+
+</div>
+
+<br>
+
+```
+┌──────────┬─────────────────────────────────────────┐
+│ role     │ full-stack dev & tech support engineer   │
+│ builds   │ bots · web apps · backend services       │
+│ runs     │ linux servers · vpn infra (xray/wg)      │
+│ stack    │ node · go · python · react · postgres    │
+│ contact  │ t.me/detestmedetestmedetestme             │
+└──────────┴─────────────────────────────────────────┘
+```
+
+<br>
+
+I build things end to end — frontend, backend, and the servers they run on.
+Most of my work sits somewhere between shipping a product and keeping the
+infrastructure under it alive: Telegram/Discord bots, web apps, and the VPS
+fleet, networking and VPN setups they depend on.
+
+<br>
+
+### stack
+
+|                |                                            |
+| -------------- | ------------------------------------------ |
+| **languages**  | Go · TypeScript · Python                    |
+| **web**        | Node.js · React                             |
+| **data**       | PostgreSQL                                  |
+| **platforms**  | iOS · Android                               |
+| **bots**       | Telegram · Discord                          |
+| **infra**      | Linux administration · VPS deployment · networking · Xray / WireGuard |
+
+<br>
+
+### now
+
+Working on bot platforms and backend tooling in Go, plus VPN/network
+infrastructure on the side.
+
+<br>
 
 ---
 
-## About me
+<div align="center">
 
-Developer working across web, mobile and infrastructure projects.
+telegram — [@detestmedetestmedetestme](https://t.me/detestmedetestmedetestme)
 
-- Full-stack web development (Node.js / React)  
-- Mobile development (iOS / Android)  
-- Telegram & Discord bot development  
-- Backend services and tools in Go  
-- Linux administration, VPS deployment, networking  
-- VPN infrastructure (Xray / WireGuard)
-
----
-
-## 🚀 tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=qqwxe&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qqwxe&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=qqwxe&theme=tokyonight&cache_seconds=1800)
-
----
-
-## 📫 contact
-
-- telegram: [@detestmedetestmedetestme](https://t.me/detestmedetestmedetestme)
-
----
+</div>
