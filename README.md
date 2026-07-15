@@ -16,7 +16,7 @@
 
 ## about
 
-I build things end to end — frontend, backend, and the servers they run on.
+I build things end to end - frontend, backend, and the servers they run on.
 Most of my work sits between shipping a product and keeping the infrastructure
 under it alive: Telegram/Discord bots, web apps, and the VPS fleet, networking
 and VPN setups they depend on.
