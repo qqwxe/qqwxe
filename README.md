@@ -73,8 +73,8 @@ Linux administration · VPS deployment · networking · Xray / WireGuard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qqwxe&show_icons=true&hide_border=true&bg_color=0f2027&title_color=6DD3FF&icon_color=6DD3FF&text_color=c9d1d9&ring_color=6DD3FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwxe&layout=compact&hide_border=true&bg_color=0f2027&title_color=6DD3FF&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qqwxe&show_icons=true&hide_border=true&bg_color=0f2027&title_color=6DD3FF&icon_color=6DD3FF&text_color=c9d1d9&ring_color=6DD3FF" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qqwxe&layout=compact&hide_border=true&bg_color=0f2027&title_color=6DD3FF&text_color=c9d1d9&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=qqwxe&hide_border=true&background=0f2027&ring=6DD3FF&fire=6DD3FF&currStreakLabel=6DD3FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8fd3ff" />
 
